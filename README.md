@@ -51,7 +51,11 @@ Follow these steps to run the application locally:
 
 ---
 
-## 🤖 AI Usage Report
+## 🤖 AI Usage Report & Guidelines
+
+> **AI Usage Guidelines**: We strongly encourage using AI tools (Claude, ChatGPT, Gemini, Cursor, Copilot) to accelerate your development. In this README, we include:
+> - The prompts that gave the most helpful code.
+> - Examples of when the AI provided incorrect code or hallucinations, and how they were resolved.
 
 ### Prompts Used
 - *"Implement a premium minimalist light theme for a Flutter task app using the 'Pristine Studio' design concept."*
