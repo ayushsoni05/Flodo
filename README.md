@@ -80,4 +80,4 @@ The AI was instrumental in scaffolding the custom design system and optimizing t
 - `animate_do`: Subtle micro-animations.
 
 ---
-Built by ayushsoni05 for the **Flodo AI** Team.
+Built by Ayush Soni for the **Flodo AI** Team.
